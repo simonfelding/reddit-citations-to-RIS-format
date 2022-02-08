@@ -1,5 +1,5 @@
-# convert reddit citations to RIS format
-Finds "(reddit.com/r/subforum/)" urls in word document and generates a RIS file to import, in order to properly cite reddit posts.
+# convert reddit citations to bibtex format
+Finds "(reddit.com/r/subforum/)" urls in word document and generates a bibtex file to import, in order to properly cite reddit posts.
 Useful for example for paperpile.com, but zotero and so on should work fine too.
 
 # to do:
